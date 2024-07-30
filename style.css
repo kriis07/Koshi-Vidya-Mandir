@@ -6,6 +6,16 @@
 
 body{
     background-color: rgb(209, 206, 206);
+    
+}
+
+@media (max-width: 768px) {
+    /* Styles for mobile devices */
+}
+
+img {
+    max-width: 100%;
+    height: auto;
 }
 
 a{
